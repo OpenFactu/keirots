@@ -1,6 +1,6 @@
 # Keirost: lector ESP32 / RC522
 
-Firmware **0.3.0** para un lector **vinculado a un kiosco** de Keirost.
+Firmware **0.3.1** para un lector **vinculado a un kiosco** de Keirost.
 El ESP32 lee la tarjeta y envia una identificacion temporal. El empleado elige
 la accion en la pantalla del kiosco. El destello indica lectura, nunca un fichaje
 confirmado. No muestra UID ni credenciales en los mensajes de diagnostico.

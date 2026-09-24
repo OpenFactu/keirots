@@ -1,3 +1,11 @@
+# Keirost 0.3.1
+
+Versión de verificación del proceso de actualización de 0.3.0 a 0.3.1 por Wi-Fi o USB.
+El único cambio en el firmware es el número de versión que comunica el lector.
+Mantiene el funcionamiento de 0.3.0 y conserva Wi-Fi, certificado y token.
+
+Después de instalarla, el lector reinicia y comunica la versión 0.3.1 a Keirost.
+
 Firmware para ESP32 DevKit V1 y lector RC522, en modo vinculado a kiosco.
 
 - Actualización por USB desde Keirost.
