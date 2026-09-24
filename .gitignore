@@ -1,0 +1,12 @@
+work/
+.vs/
+*.vcxproj.user
+.env
+.env.*
+release/
+.vscode/c_cpp_properties.json
+*.bin
+*.elf
+*.map
+*.hex
+secrets.h

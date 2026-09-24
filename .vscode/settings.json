@@ -1,0 +1,14 @@
+{
+  "arduino.useArduinoCli": true,
+  "arduino.additionalUrls": [
+    "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+  ],
+  "arduino.disableTestingOpen": true,
+  "arduino.analyzeOnOpen": false,
+  "files.associations": {
+    "*.ino": "cpp"
+  },
+  "files.exclude": {
+    "work": true
+  }
+}
